@@ -1,5 +1,5 @@
 <div style="width: 100%;text-align: center;margin: 50px 0;">
-    <img src="./frontend/img/logo.png" width="200px">
+    <img src="./frontend/src/assets/logo.svg" width="200px">
 </div>
 
 ## Tecnologias Utilizadas
